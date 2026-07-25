@@ -1,5 +1,5 @@
 body {
-  background-color: lightgreen;
+  background-color: #FFC6FF;
 
   /* Smoothly transition the background color */
   transition: background-color .5s;
@@ -25,7 +25,6 @@ body {
   margin: 25px;
   height: 250px;
   width: 250px;
-  background-image: url("https://images.pexels.com/photos/262034/pexels-photo-262034.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
   background-size: cover;
   border-radius: 15%;
 }
@@ -115,3 +114,60 @@ i.fa-volume-down, i.fa-volume-up {
 i.fa-play-circle, i.fa-pause-circle, i.fa-step-forward, i.fa-step-backward {
   cursor: pointer;
 }
+
+
+
+body {
+    text-align: center;
+    background-color: #FFC6FF;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: x-large;
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+
+}
+
+h1 {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+img {
+    align-items: center;
+}
+
+summary {
+    text-align: center;
+    font-size: x-large;
+}
+
+summary {
+    text-align: center;
+    font-size: x-large;
+}
+
+.dark-mode {
+        background-color: #570857;
+    }
+
+    button {
+        cursor: default;
+        border-color: blue;
+        padding: 10px;
+        margin: 15px;
+
+    }

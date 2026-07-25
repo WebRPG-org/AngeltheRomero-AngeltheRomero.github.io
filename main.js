@@ -33,6 +33,28 @@ let track_list = [
     image: "Kokomo by the Beach Boys.jpg",
     path: "Kokomo - The Beach Boys.mp3"
   },
+
+  {
+    name: "You Make Me Feel Like Dancing",
+    artist: "Leo Sayer",
+    image: "Leo Sayer Album Cover.jpg",
+    path: "Leo Sayer - You Make Me Feel Like Dancing (Official HD Music Video) - Leo Sayer.mp3"
+  },
+
+  {
+    name: "Talking In Your Sleep",
+    artist: "The Romantics",
+    image: "",
+    path: "The Romantics - Talking In Your Sleep - Top Squad.mp3"
+  },
+
+  {
+    name: "Shout, Pts. 1 & 2",
+    artist: "The Isley Brothers",
+    image: "",
+    path: "The Isley Brothers - Shout, Pts. 1 & 2 (Official Audio) - TheIsleyBrothersVEVO.mp3"
+  },
+
   {
     name: "Another Winter",
     artist: "Anamanaguchi",
@@ -67,11 +89,54 @@ let track_list = [
   },
 
   {
-    name: "",
-    artist: "",
+    name: "Death In Bloom",
+    artist: "Brandon Yates (feat. Casey Lee Williams & Mirea Sheltzs)",
     image: "",
-    path: ""
+    path: "Death Battle： Death In Bloom (feat. Casey Lee Williams & Mirea Sheltzs) - Brandon Yates.mp3"
   },
+
+  {
+    name: "Bounce Bounce Revolution",
+    artist: "BinCell",
+    image: "Bounce Bounce Revolution Cover.jpg",
+    path: "Bounce Bounce Revolution - BinCell.mp3"
+  },
+
+  {
+    name: "Nangokufu desu ga, Nani ka",
+    artist: "Satoru Kosaki",
+    image: "Lucky Star Album.jpg",
+    path: "Nangokufu desu ga, Nani ka - Satoru Kosaki.mp3"
+  },
+
+  {
+    name: "Fun Fun Fun dayo, Lucky Star",
+    artist: "Satoru Kosaki",
+    image: "Lucky Star Album.jpg",
+    path: "Fun Fun Fun dayo, Lucky Star - Satoru Kousaki.mp3"
+  },
+
+  {
+    name: "Fun Fun Fun dayo, Lucky Star",
+    artist: "Satoru Kosaki",
+    image: "Lucky Star Album.jpg",
+    path: "Fun Fun Fun dayo, Lucky Star - Satoru Kousaki.mp3"
+  },
+
+  {
+    name: "Seisyun Complex",
+    artist: "Kessoku Band",
+    image: "Kessoku Band Cover.jpg",
+    path: "seisyun complex - kessoku band.mp3"
+  },
+
+  {
+    name: "ダンシング・ヒーロー（Eat You Up）",
+    artist: "Yoko Oginome",
+    image: "",
+    path: "ダンシング・ヒーロー（Eat You Up） - Yoko Oginome.mp3"
+  },
+
 ];
 
 function random_bg_color() {
