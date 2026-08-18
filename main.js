@@ -56,6 +56,27 @@ let track_list = [
   },
 
   {
+    name: "Teenage Dream",
+    artist: "T. Rex",
+    image: "T-REX Album Cover.jpg",
+    path: "Teenage Dream - T. Rex.mp3"
+  },
+
+  {
+    name: "Am I dreaming",
+    artist: "Metro Boomin",
+    image: "",
+    path: "Am I Dreaming - Metro Boomin.mp3"
+  },
+
+  {
+    name: "",
+    artist: "",
+    image: "",
+    path: ""
+  },
+
+  {
     name: "Another Winter",
     artist: "Anamanaguchi",
     image: "SPVTWTG Album Cover.jpg",
@@ -107,13 +128,6 @@ let track_list = [
     artist: "Satoru Kosaki",
     image: "Lucky Star Album.jpg",
     path: "Nangokufu desu ga, Nani ka - Satoru Kosaki.mp3"
-  },
-
-  {
-    name: "Fun Fun Fun dayo, Lucky Star",
-    artist: "Satoru Kosaki",
-    image: "Lucky Star Album.jpg",
-    path: "Fun Fun Fun dayo, Lucky Star - Satoru Kousaki.mp3"
   },
 
   {
